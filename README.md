@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 # Ruby on Rails チュートリアル：サンプルアプリケーション
+
+#test2
